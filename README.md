@@ -88,7 +88,7 @@ Example 4: access to columns with column names
 Example 5: update statement
 -----------------------------
 	SqliteSimple *db = [[SqliteSimple alloc] initWithPath:@"database.db"];
-	    if ([db updateq:@"UPDATE adverts SET name = ? WHERE id = ?", @"Mrn", num ] ) {
+	    if ([db updateq:@"UPDATE adverts SET name = ? WHERE id = ?", @"Mrn", [NSNumber numberWithInt:5] ] ) {
 	        NSLog(@"update completed");
 	    }
 	    [db close];
