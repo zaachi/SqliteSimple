@@ -1,7 +1,7 @@
 SqliteSimple
 ============
 
-SqliteSimple is veri simple wrapper in __Objective-C__ over __Sqlite3 database__ (http://www.sqlite.org/) for __Cocoa framework__.
+SqliteSimple is very simple wrapper in __Objective-C__ over __Sqlite3 database__ (http://www.sqlite.org/) for __Cocoa framework__.
 
 Initialization
 --------------
