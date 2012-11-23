@@ -1,4 +1,4 @@
 SqliteSimple
 ============
 
-simple wrapper over sqlite3 database for Cocoa
+simple wrapper over sqlite3 database for Cocoa.
